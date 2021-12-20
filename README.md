@@ -1,2 +1,2 @@
 # Machile Learning FPUNA
-Workshop de la asignatura Machine Learning FPUNA
+Workshop de trabajo finales la asignatura Machine Learning FPUNA
